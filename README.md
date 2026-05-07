@@ -22,15 +22,15 @@ Users can also upload their own CSV or Excel files for analysis.
 
 ## Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](asset/dashboard.png)
 
 ## AI Chat
 
-![Chat](assets/chat.png)
+![Chat](asset/chat.png)
 
 ## Report
 
-![Report](assets/report.png)
+![Report](asset/report.png)
 
 ---
 
